@@ -1,0 +1,48 @@
+# Node.js dependencies
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+debug.log
+error.log
+*.pid
+*.seed
+*.pid.lock
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Generated files
+/build/
+/dist/
+.DS_Store
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Coverage reports
+/coverage/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.tmp
+*.lock
